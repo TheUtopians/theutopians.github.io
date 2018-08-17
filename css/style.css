@@ -299,7 +299,8 @@ footer {
 }
 
 #About p {
-	color: #F0EFEF;
+  color: #F0EFEF;
+line-height: 3em;
 }
 
 #registration h2{
